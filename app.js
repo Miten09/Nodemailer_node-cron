@@ -18,7 +18,7 @@ const mongoose = require("mongoose");
 
 mongoose
   .connect(
-    "mongodb+srv://Miten:MiHaKrRa88@projects.hpzcfyg.mongodb.net/all_email?retryWrites=true&w=majority",
+    "mongodb+srv://Miten:@projects.hpzcfyg.mongodb.net/all_email?retryWrites=true&w=majority",
     {
       useNewUrlParser: true,
       useUnifiedTopology: true,
